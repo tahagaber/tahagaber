@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahagaber&label=Profile%20views&color=0e75b6&style=flat" alt="tahagaber" /> </p>
+
 - 🔭 I’m currently working on **Flutter Developer & Project Coordinator at ALmentor**
 
 - 🌱 I’m currently learning **Advanced Flutter patterns And JavaFX / Swing for rich desktop apps**
