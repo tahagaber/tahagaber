@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif](https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif">
+<img src="https://i.pinimg.com/originals/6b/f0/a5/6bf0a5d234d2f9b24dea9309636bf737.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahagaber&label=Profile%20views&color=0e75b6&style=flat" alt="tahagaber" /> </p>
 
