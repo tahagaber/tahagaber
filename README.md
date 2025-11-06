@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there 👋, Taha Gaber</h1>
 
-<a href="https://github.com/tahagaber/tahagaber/" target="_blank">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.BDUU1oq4v1KnYdSIw92dXQHaFS?pid=Api&P=0&h=220" alt="Taha Gaber - Flutter Developer">
+<a href="https://github.com/tahagaber/tahagaber" target="_blank">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e8ac71f4a012cd798e37bbfd&ts=489573&p=fs&cid=1&sig=3f25f0df8fc825631072bb7b26ad14e99b93c12974ee41b0183199db9d5790b2&v=0" 
+       alt="Taha Gaber - Flutter Developer"
+       style="border-radius: 10px; width: 100%; max-width: 1000px;" />
 </a>
 
 <p align="center">
