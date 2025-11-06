@@ -3,8 +3,8 @@
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+	<a href="https://github.com/tahagaber">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;AI+%26+ML+Enthusiast;Embedded+Systems+Explorer;Cross-Platform+App+Builder;Always+Learning+and+Improving&center=true&width=480&height=45&color=00C4FF">
 	</a>
 </p>
 
@@ -68,13 +68,13 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+<a href="www.linkedin.com/in/taha-gaber-87b1a9375" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+<a href="https://www.instagram.com/taha_gaber9/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com" >
+<a href="tahagaber175@gmail.com" >
   <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
@@ -84,5 +84,5 @@
 
 ---
 
-[StefanosSt](https://github.com/StefanosSt)
+[StefanosSt](https://github.com/tahagaber)
 Last Edited on : 13/08/2023
