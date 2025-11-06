@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, Taha Gaber</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="https://lh3.googleusercontent.com/gg-dl/ABS2GSnSOB03RTO613XUDBTLhlyxX4RxqTVUCGjuuG9nnOop7M-hc7bBps6ED2mHGLxyUfhXkVY8ovZxR5ZYf3E-Vox4ibjZ76k4UbZ5zPScr0hdKco2wGNOwivb5Mz-eRxlDTRFcLCwYBjZsIwU47KfcSfnRGl9-xniMKgsoxMWe7CM8kEZPg=s1024-rj"/></a>
 
 <p align="center">
 	<a href="https://github.com/tahagaber">
