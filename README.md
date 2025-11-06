@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋, Taha Gaber</h1>
 
-<a href="**ضع_رابط_ملفك_الشخصي_هنا**" target="_blank">
-  <img src="uploaded:WhatsApp Image 2025-11-06 at 22.48.03_63aab5b9.jpg" alt="Taha Gaber - Flutter Developer">
+<a href="https://github.com/tahagaber/tahagaber/" target="_blank">
+  <img src="blob:https://gemini.google.com/66cfbe45-3200-49d0-a7da-e980a0209037" alt="Taha Gaber - Flutter Developer">
 </a>
-![Taha Gaber - Flutter Developer Banner](uploaded:WhatsApp Image 2025-11-06 at 22.48.03_63aab5b9.jpg)
+
 <p align="center">
 	<a href="https://github.com/tahagaber">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;AI+%26+ML+Enthusiast;Embedded+Systems+Explorer;Cross-Platform+App+Builder;Always+Learning+and+Improving&center=true&width=480&height=45&color=00C4FF">
