@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, Taha Gaber</h1>
 
 <a href="https://github.com/tahagaber/tahagaber/" target="_blank">
-  <img src="blob:https://gemini.google.com/66cfbe45-3200-49d0-a7da-e980a0209037" alt="Taha Gaber - Flutter Developer">
+  <img src="https://tse4.mm.bing.net/th/id/OIP.BDUU1oq4v1KnYdSIw92dXQHaFS?pid=Api&P=0&h=220" alt="Taha Gaber - Flutter Developer">
 </a>
 
 <p align="center">
