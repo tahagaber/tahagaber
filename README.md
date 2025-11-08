@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, Taha Gaber</h1>
 
 <a href="https://github.com/tahagaber/tahagaber" target="_blank">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e8ac71f4a012cd798e37bbfd&ts=489573&p=fs&cid=1&sig=3f25f0df8fc825631072bb7b26ad14e99b93c12974ee41b0183199db9d5790b2&v=0" 
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI2MjY0NzUsIm5iZiI6MTc2MjYyNjE3NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA4VDE4MjI1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxMTdjNDljOTg2OWYzMTQ0OTIzMTMzZjhlYmZhZjFlNjYzY2RlZGJkNjIxNGIyNzIwNGEwNTNmNzE4NWQxMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pNu3sGWiV0nMcT5C3jEOsJ9gpmWrEfM71s1EV8MKEgE" 
        alt="Taha Gaber - Flutter Developer"
        style="border-radius: 10px; width: 100%; max-width: 1000px;" />
 </a>
